@@ -8,6 +8,6 @@ Player Efficieny Rating (PER), created by John Hollinger, is a holistic metric c
 * The idea to use linear weighted PER formula instead of John Hollinger's original PER formula was influenced because of an article found from [Bleacher Report](https://bleacherreport.com/articles/113144-cracking-the-code-how-to-calculate-hollingers-per-without-all-the-mess)
 
 ## Contact
-Sean Yang- seany@ymail.com
-Project Link- 
-[LinkedIn](https://www.linkedin.com/in/sean-h-yang/)
+* Sean Yang- seany@ymail.com
+* Project Link- 
+* [LinkedIn](https://www.linkedin.com/in/sean-h-yang/)
