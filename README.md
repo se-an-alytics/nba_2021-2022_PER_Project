@@ -9,5 +9,6 @@ Player Efficieny Rating (PER), created by John Hollinger, is a holistic metric c
 
 ## Contact
 * Sean Yang- seany@ymail.com
-* Project Link- 
+* [Project Link](https://github.com/se-an-alytics/nba_2021-2022_PER_Project/blob/main/2021_2022_NBA_Linear_Weighted_PER.ipynb)
+* [Google Colab](https://colab.research.google.com/drive/1so6udA_-uodffWxFLChYfKc2SZVlFj_C?usp=sharing)
 * [LinkedIn](https://www.linkedin.com/in/sean-h-yang/)
