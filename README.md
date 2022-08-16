@@ -1,14 +1,10 @@
 # 🏀⚾ Sports Analysis ⚽🏈
 
-## About
-Player Efficieny Rating (PER), created by John Hollinger, is a holistic metric commonly used in basketball analytics to measure and evaluate a player's on-court statistical performances/contributions into one number. While Hollinger has developed a system that effectively rates an individual player quite precisely, there are many factors that go into it which can be very difficult/frustrating to acquire from open data sources (i.e. team pace v. league pace). Because of this, I was motivated to calculate a linear-weighted PER and rids any factors outside of an indivdual's very own performance. 
+## About Me
+Hello! My name is Sean and I am a recent graduate from the University of Washington. As we know, information is at the crux of human learning and advancements. The power of data in the digital era of human society today has intrigued me to further contribute to such innovations. I am seeking for whatever opportunities enable me to pursue my passion and love for Data Science, all while finding ways in which I can contribute to the everlasting changes we see through digital technologies. With the skills and knowledge I have attained throughout my academic career and recent internship, I hope to gain further experience/insights to expedite my growth as an aspiring Data Engineer/Analyst. The purpose and design of this git repo is to display a fusion of my knowledge in data and love for sports. 
 
-## Acknowledgements
-* The original dataset used for this dataset was obtained from Kaggle (user: Sadegh Jalalian) and can be found [here](https://www.kaggle.com/datasets/sadeghjalalian/nba-player-stats-19982022). 
-* The idea to use linear weighted PER formula instead of John Hollinger's original PER formula was influenced because of an article found from [Bleacher Report](https://bleacherreport.com/articles/113144-cracking-the-code-how-to-calculate-hollingers-per-without-all-the-mess)
 
 ## Contact
 * Sean Yang- seany@ymail.com
-* [Project Link](https://github.com/se-an-alytics/nba_2021-2022_PER_Project/blob/main/2021_2022_NBA_Linear_Weighted_PER.ipynb)
-* [Google Colab](https://colab.research.google.com/drive/1so6udA_-uodffWxFLChYfKc2SZVlFj_C?usp=sharing)
+* [My Portfolio Website](https://seanhyang.wixsite.com/se-an-alytics)
 * [LinkedIn](https://www.linkedin.com/in/sean-h-yang/)
