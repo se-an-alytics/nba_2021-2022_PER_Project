@@ -1,4 +1,4 @@
-# nba_2021-2022_PER_Project
+# 🏀⚾ Sports Analysis ⚽🏈
 
 ## About
 Player Efficieny Rating (PER), created by John Hollinger, is a holistic metric commonly used in basketball analytics to measure and evaluate a player's on-court statistical performances/contributions into one number. While Hollinger has developed a system that effectively rates an individual player quite precisely, there are many factors that go into it which can be very difficult/frustrating to acquire from open data sources (i.e. team pace v. league pace). Because of this, I was motivated to calculate a linear-weighted PER and rids any factors outside of an indivdual's very own performance. 
